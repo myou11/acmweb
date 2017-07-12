@@ -1,0 +1,49 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+    background-color: #006225;
+    text-align: center;
+}
+
+#nav a {
+    color: #595959;
+}
+
+#nav #currentPage {
+    background-color: green;
+}
+
+#nav ul {
+    text-align: center;
+    width: auto;
+}
+
+#nav li {
+    border-radius: 1em;
+    display: inline-block;
+    margin: 0 1% 0 0;
+    padding: 5px;
+}
+
+#nav li:hover {
+    opacity: 0.7;
+}
+
+.events div {
+    border-radius: 1em;
+    border: 1px solid;
+    margin: 3% auto;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+}
