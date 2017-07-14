@@ -6,7 +6,8 @@
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
-    margin: 0; padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -16,17 +17,17 @@ a {
 /* CSU Logo and title in Nav */
 nav .logo img {
     width: 120px;
-
 }
 
 nav .title {
     color: #383a38;
     text-align: center;
+    margin: 15px auto 35px;
 }
 
 nav .title h1 {
     font-size: 28px;
-    margin: 0 0 10px;
+    margin-bottom: 10px;
 }
 
 nav .title h4 {
@@ -40,11 +41,11 @@ nav {
     left: 0;
     height: 100%;
     width: 360px;
-    padding: 40px 0;
+    padding: 80px 0;
     background-color: #5c9731;
 }
 
-nav a {
+nav .links a {
     color: #383a38;
     display: block;
     margin: 1em 0;
@@ -64,6 +65,24 @@ nav li {
 
 nav li:hover {
     opacity: 0.7;
+}
+
+/* Responsive Navigation */
+@media (max-width: 900px) {
+    nav {
+        position: inherit;
+        width: auto;
+        height: auto;
+    }
+
+    nav .links {
+        text-align: center;
+    }
+
+    nav .links a {
+        display: inline-block;
+        margin: 0 10px;
+    }
 }
 
 /* Events */

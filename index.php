@@ -12,9 +12,9 @@
 <body>
     <!-- Navigation -->
     <?php include("phpincludes/nav.php"); ?>
-    <div class="logo">
+    <!-- <div class="acmgif">
         <img src="acm_logogif.gif">
-    </div>
+    </div> -->
 
     <div class="events">
         <div>
