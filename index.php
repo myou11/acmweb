@@ -10,7 +10,6 @@
 </head>
 
 <body>
-    <h1>ACM Site</h1>
     <!-- Navigation -->
     <?php include("phpincludes/nav.php"); ?>
     <div class="logo">

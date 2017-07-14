@@ -1,41 +1,72 @@
+/* Site-wide effects */
 * {
     font-family: 'Quicksand', sans-serif;
     box-sizing: border-box;
+}
+
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+    margin: 0; padding: 0;
 }
 
 a {
     text-decoration: none;
 }
 
-h1 {
-    color: white;
-    background-color: #006225;
+/* CSU Logo and title in Nav */
+nav .logo img {
+    width: 120px;
+
+}
+
+nav .title {
+    color: #383a38;
     text-align: center;
 }
 
-#nav a {
-    color: #595959;
+nav .title h1 {
+    font-size: 28px;
+    margin: 0 0 10px;
 }
 
-#nav #currentPage {
-    background-color: green;
+nav .title h4 {
+    font-size: 15px;
 }
 
-#nav ul {
+/* Navigation */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 360px;
+    padding: 40px 0;
+    background-color: #5c9731;
+}
+
+nav a {
+    color: #383a38;
+    display: block;
+    margin: 1em 0;
     text-align: center;
-    width: auto;
 }
 
-#nav li {
-    border-radius: 1em;
-    display: inline-block;
+#currentPage {
+    color: #FFFFFF;
+}
+
+nav li {
+    text-decoration: none;
     margin: 0 1% 0 0;
     padding: 5px;
+    text-align: center;
 }
 
-#nav li:hover {
+nav li:hover {
     opacity: 0.7;
 }
+
+/* Events */
 
 .events div {
     border-radius: 1em;
