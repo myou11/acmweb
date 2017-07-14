@@ -22,7 +22,7 @@ nav .logo img {
 nav .title {
     color: #383a38;
     text-align: center;
-    margin: 15px auto 35px;
+    margin: 15px auto 30px;
 }
 
 nav .title h1 {
@@ -34,6 +34,43 @@ nav .title h4 {
     font-size: 15px;
 }
 
+/* Social media icons */
+
+.social {
+    text-align: center;
+}
+
+/* style all icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+}
+
+/* hover effect */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* LinkedIn */
+.fa-linkedin {
+    background: #0077B5;
+    color: white;
+}
+
 /* Navigation */
 nav {
     position: fixed;
@@ -43,6 +80,10 @@ nav {
     width: 360px;
     padding: 80px 0;
     background-color: #5c9731;
+}
+
+nav .links {
+    margin-bottom: 30px;
 }
 
 nav .links a {
@@ -77,6 +118,7 @@ nav li:hover {
 
     nav .links {
         text-align: center;
+        margin-bottom: 30px;
     }
 
     nav .links a {

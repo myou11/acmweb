@@ -47,4 +47,9 @@
         </a>
         <a href="http://www.cs.colostate.edu/~acm-w/">ACM-W</a>
     </div>
+    <div class="social">
+        <a href="facebook.com/groups/ColoStateACM" class="fa fa-facebook"></a>
+        <a href="twitter.com/ColoStateACM" class="fa fa-twitter"></a>
+        <a href="linkedin.com/groups/12052753" class="fa fa-linkedin"></a>
+    </div>
 </nav>
