@@ -1,6 +1,6 @@
 /* Site-wide effects */
 * {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     box-sizing: border-box;
 }
 
@@ -15,6 +15,10 @@ a {
 }
 
 /* CSU Logo and title in Nav */
+nav .logo {
+    text-align: center;
+}
+
 nav .logo img {
     width: 120px;
 }
@@ -41,37 +45,26 @@ nav .title h4 {
 }
 
 /* style all icons */
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
+.social .fa {
+    padding: 20px;      /* give the social media icon some breathing room */
+    width: 55px;        /* max width of the box will be 55px */
+    font-size: 15px;    /* size of social media icon */
+    text-align: center; /* icon seems to center with or w/o this property */
+    border: 2px solid transparent;
+    border-radius: 50%; /* round the icons */
+    background: #383a38;
+    color: #5c9731;
 }
 
 /* hover effect */
-.fa:hover {
-    opacity: 0.7;
-}
-
-/* Facebook */
-.fa-facebook {
-    background: #3B5998;
-    color: white;
-}
-
-/* Twitter */
-.fa-twitter {
-    background: #55ACEE;
-    color: white;
-}
-
-/* LinkedIn */
-.fa-linkedin {
-    background: #0077B5;
-    color: white;
+.social .fa:hover {
+    background: #5c9731;
+    border-color: #383a38;
+    color: #383a38;
 }
 
 /* Navigation */
+
 nav {
     position: fixed;
     top: 0;
@@ -108,34 +101,112 @@ nav li:hover {
     opacity: 0.7;
 }
 
+/* Events */
+
+.pageContent {
+    margin: 0 0 0 360px;
+    padding: 60px 135px 60px 80px;
+}
+
+/* make all event links red */
+.pageContent .event a {
+    color: #e23434;
+}
+
+.pageContent .event .title, .info, .details {
+    margin-bottom: 10px;
+}
+
+.pageContent .event {
+    margin-bottom: 20px;
+}
+
+.pageContent .event .title {
+    font-size: 28px;
+}
+
+.pageContent .event .title .host {
+    color: #828282;
+}
+
+.pageContent .event .info p,
+.pageContent .event .info blockquote {
+    margin-bottom: 10px;
+}
+
+/* create a modern style for quotes */
+.pageContent .event .info blockquote {
+    padding-left: 20px;
+    border-left: 3px solid #5c9731;
+}
+
+.pageContent .event .details .date,
+.pageContent .event .details .time,
+.pageContent .event .details .location {
+    padding: 0 15px 0 0;
+    color: #383a38;
+}
+
+.pageContent .event .info {
+    font-size: 18px;
+    word-spacing: 3px;
+}
+
+/* Yearly officer elections styiling */
+
+.elections h4 {
+    text-align: center;
+    color: #383a38
+}
+
+.elections .position {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* styles first element under nested under .elections .position (first paragraph tag under "position" div)*/
+.elections .position :first-child {
+    color: #5c9731;
+}
+
+/* Yearly Google styling */
+
+.pageContent .event .info .google {
+    text-align: center;
+}
+
+.pageContent .event .info .google .rsvp {
+    color: #e23434;
+}
+
+.pageContent .event .info .google .activity h4 {
+    color: #5c9731;
+    margin-bottom: 10px;
+}
+
 /* Responsive Navigation */
+
 @media (max-width: 900px) {
     nav {
         position: inherit;
         width: auto;
         height: auto;
+        padding: 40px 0;
     }
 
     nav .links {
         text-align: center;
         margin-bottom: 30px;
+        padding: 0 12%;
     }
 
     nav .links a {
         display: inline-block;
         margin: 0 10px;
     }
-}
 
-/* Events */
-
-.events div {
-    border-radius: 1em;
-    border: 1px solid;
-    margin: 3% auto;
-    text-align: center;
-}
-
-.logo {
-    text-align: center;
+    .pageContent {
+        margin: 0;
+        padding: 40px 80px;
+    }
 }
