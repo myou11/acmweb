@@ -12,18 +12,15 @@
 <body>
     <!-- Navigation -->
     <?php include("phpincludes/nav.php"); ?>
-    <!-- <div class="acmgif">
-        <img src="acm_logogif.gif">
-    </div> -->
 
     <div class="pageContent">
         <div class="event">
             <div class="title">
-
+                New Website Design
             </div>
             <div class="info">
                 <p>
-
+                    Welcome to the ACM website for the 2017-18 academic year!
                 </p>
             </div>
             <!-- <div class="details">

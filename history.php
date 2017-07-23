@@ -11,6 +11,7 @@
 
 <body>
     <?php include("phpincludes/nav.php"); ?>
+    
     <div class="pageContent">
         <div class="event">
             <div class="title">

@@ -1,0 +1,26 @@
+.pageContent section {
+    margin-bottom: 40px;
+}
+
+.pageContent section h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #5c9731;
+}
+
+.pageContent section p {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.pageContent section .email {
+    color: #e23434;
+}
+
+.pageContent section .members {
+    text-align: center;
+}
+
+.pageContent .projectsTitle {
+    font-size: 36px;
+}

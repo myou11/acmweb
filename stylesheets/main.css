@@ -108,8 +108,8 @@ nav li:hover {
     padding: 60px 135px 60px 80px;
 }
 
-/* make all event links red */
-.pageContent .event a {
+/* make all page body links red */
+.pageContent a {
     color: #e23434;
 }
 
@@ -150,6 +150,13 @@ nav li:hover {
 .pageContent .event .info {
     font-size: 18px;
     word-spacing: 3px;
+}
+
+/* Future page styling */
+.pageContent .future-disclaimer {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #5c9731;
 }
 
 /* Yearly officer elections styiling */
