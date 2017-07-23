@@ -3,7 +3,7 @@
 
 <!-- Stylesheet -->
 <link rel="stylesheet" href="stylesheets/main.css">
-<?php if ($thisPage=="about" || $thisPage=="contact" || $thisPage=="members" || $thisPage=="projects" || $thisPage=="pollsForms")
+<?php if ($thisPage=="about" || $thisPage=="contact" || $thisPage=="members" || $thisPage=="projects" || $thisPage=="history" || $thisPage=="pollsForms")
 echo "<link rel=\"stylesheet\" href=\"stylesheets/secondary.css\">"; ?>
 
 <!-- Google Fonts -->

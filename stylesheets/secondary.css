@@ -24,3 +24,9 @@
 .pageContent .projectsTitle {
     font-size: 36px;
 }
+
+.pageContent .histTitle {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #5c9731;
+}
