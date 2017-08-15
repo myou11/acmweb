@@ -16,17 +16,19 @@
     <div class="pageContent">
         <div class="event">
             <div class="title">
-                New Website Design
+                ACM Welcome with ACM-W
             </div>
             <div class="info">
                 <p>
-                    Welcome to the ACM website for the 2017-18 academic year!
+					Learn about ACM, what ACM has planned, and grab some pizza and play some card/board games. 
+					<br>
+					(This is a Thursday, ACM-W meeting)
                 </p>
             </div>
-            <!-- <div class="details">
+            <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>4/19/2017</span>
+                    <span>8/24/2017</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -37,7 +39,7 @@
                     <span>CSB 130</span>
                 </span>
             </div>
-        </div> -->
+        </div>
     </div>
 
 </body>
