@@ -1,0 +1,31 @@
+.pageContent .officer {
+  border-radius: 10px;
+  border: 2px solid black;
+  max-width: 33%;
+  text-align: center;
+  display: inline-block;
+  padding: 20px 40px; 
+  margin-right: 20px;
+}
+
+/*.pageContent .officer .pic { 
+  border-radius: 50%;
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+} */
+
+/*.pageContent .officer .pic img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}*/
+
+.pageContent .officer img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}

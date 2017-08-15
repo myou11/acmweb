@@ -50,7 +50,7 @@
     <div class="social">
         <!-- Need to have the 'https://www.' in the link so it knows you it is a URL and not a file on the computer -->
         <a href="https://www.facebook.com/groups/ColoStateACM" target="_blank" class="fa fa-facebook"></a>
-        <a href="https://www.twitter.com/ColoStateACM" class="fa fa-twitter"></a>
-        <a href="https://www.linkedin.com/groups/12052753" class="fa fa-linkedin"></a>
+        <a href="https://www.twitter.com/ColoStateACM" target="_blank" class="fa fa-twitter"></a>
+        <a href="https://www.linkedin.com/groups/12052753" target="_blank" class="fa fa-linkedin"></a>
     </div>
 </nav>

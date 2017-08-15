@@ -5,6 +5,8 @@
 <link rel="stylesheet" href="stylesheets/main.css">
 <?php if ($thisPage=="about" || $thisPage=="contact" || $thisPage=="members" || $thisPage=="projects" || $thisPage=="history" || $thisPage=="pollsForms")
 echo "<link rel=\"stylesheet\" href=\"stylesheets/secondary.css\">"; ?>
+<?php if ($thisPage=="officers")
+echo "<link rel=\"stylesheet\" href=\"stylesheets/officers.css\">"; ?>
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Quicksand|Raleway|Roboto+Slab|Zilla+Slab|Sanchez|PT+Sans" rel="stylesheet">
