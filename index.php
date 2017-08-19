@@ -32,7 +32,7 @@
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
-                    <span>5:00 - 8:00 PM</span>
+                    <span>5:00 - 8:00 pm</span>
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
