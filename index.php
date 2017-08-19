@@ -20,7 +20,7 @@
             </div>
             <div class="info">
                 <p>
-					Learn about ACM, what ACM has planned, and grab some pizza and play some card/board games. 
+					Learn about ACM, what ACM has planned, and grab some pizza and play some card/board games.
 					<br>
 					(This is a Thursday, ACM-W meeting)
                 </p>
@@ -32,11 +32,11 @@
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
-                    <span>6:00 PM</span>
+                    <span>5:00 - 8:00 PM</span>
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
+                    <span>Pinon Hall 131</span>
                 </span>
             </div>
         </div>
