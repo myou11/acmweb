@@ -30,6 +30,20 @@
 
             <div class="officer">
                 <div class="pic">
+                    <img src="acmImages/Habeeb.jpg">
+                </div>
+                <h3>Habeeb Mohammed</h3>
+                <p><em>Vice President</em></p>
+                <div class="links">
+                    <a href="mailto:habeeb@cs.colostate.edu" class="fa fa-envelope"></a>
+                    <a href="https://www.cs.colostate.edu/~habeeb" class="fa fa-laptop"></a>
+                    <a href="https://github.com/habeeb-umo" class="fa fa-github"></a>
+                    <a href="https://www.linkedin.com/in/habeeb-umo" class="fa fa-linkedin"></a>
+                </div>
+            </div>
+
+            <div class="officer">
+                <div class="pic">
                     <img src="acmImages/MaxwellYou.jpg">
                 </div>
                 <h3>Maxwell You</h3>
@@ -47,6 +61,7 @@
                 <div class="links">
                     <a href="mailto:jsalzano@rams.colostate.edu" class="fa fa-envelope"></a>
                     <a href="http://www.cs.colostate.edu/~jsalzano" class="fa fa-laptop"></a>
+                    <a href="https://www.linkedin.com/in/jsalzano" class="fa fa-linkedin"></a>
                 </div>
             </div>
 
