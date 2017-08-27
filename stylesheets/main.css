@@ -53,12 +53,12 @@ nav .title h4 {
     border: 2px solid transparent;
     border-radius: 50%; /* round the icons */
     background: #383a38;
-    color: #5c9731;
+    color: #4FB0C6;
 }
 
 /* hover effect */
 .social .fa:hover {
-    background: #5c9731;
+    background: #4FB0C6;
     border-color: #383a38;
     color: #383a38;
 }
@@ -72,7 +72,7 @@ nav {
     height: 100%;
     width: 360px;
     padding: 80px 0;
-    background-color: #5c9731;
+    background-color: #4FB0C6;
 }
 
 nav .links {
@@ -121,16 +121,8 @@ nav li:hover {
     margin-bottom: 20px;
 }
 
-.pageContent .past {
-    color: #8b8687;
-}
-
 .pageContent .event .title {
     font-size: 28px;
-}
-
-.pageContent .event .title .host {
-    color: #828282;
 }
 
 .pageContent .event .info p,
@@ -148,12 +140,15 @@ nav li:hover {
 .pageContent .event .details .time,
 .pageContent .event .details .location {
     padding: 0 15px 0 0;
-    color: #383a38;
 }
 
 .pageContent .event .info {
     font-size: 18px;
     word-spacing: 3px;
+}
+
+.pageContent .past {
+    color: #8b8687;
 }
 
 /* Future page styling */

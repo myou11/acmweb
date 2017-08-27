@@ -1,7 +1,7 @@
 <nav>
     <div class="logo">
         <a href="https://www.cs.colostate.edu/cstop/">
-            <img src="acmImages/ramLogo.png">
+            <img src="acmImages/ramLogoTransparent.png">
         </a>
     </div>
     <div class="title">
