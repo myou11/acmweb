@@ -16,6 +16,34 @@
     <div class="pageContent">
         <div class="event">
             <div class="title">
+                Success in CS!
+            </div>
+            <div class="info">
+                <p>
+                    Learn tips, tricks, and get advice from current officers + free pizza!
+                </p>
+                <p>
+                    Also, an introduction to our side project initiative and what we are doing this semester.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>08/30/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event past">
+            <div class="title">
                 ACM Welcome with ACM-W
             </div>
             <div class="info">
