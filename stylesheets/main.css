@@ -133,7 +133,7 @@ nav li:hover {
 /* create a modern style for quotes */
 .pageContent .event .info blockquote {
     padding-left: 20px;
-    border-left: 3px solid #5c9731;
+    border-left: 3px solid #4FB0C6;
 }
 
 .pageContent .event .details .date,
@@ -155,7 +155,7 @@ nav li:hover {
 .pageContent .future-disclaimer {
     text-align: center;
     margin-bottom: 20px;
-    color: #5c9731;
+    color: #4FB0C6;
 }
 
 /* Yearly officer elections styiling */
@@ -172,7 +172,7 @@ nav li:hover {
 
 /* styles first element under nested under .elections .position (first paragraph tag under "position" div)*/
 .elections .position :first-child {
-    color: #5c9731;
+    color: #4FB0C6;
 }
 
 /* Yearly Google styling */
@@ -186,7 +186,7 @@ nav li:hover {
 }
 
 .pageContent .event .info .google .activity h4 {
-    color: #5c9731;
+    color: #4FB0C6;
     margin-bottom: 10px;
 }
 
