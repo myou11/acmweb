@@ -216,3 +216,9 @@ nav li:hover {
         padding: 40px 80px;
     }
 }
+
+@media (max-height: 768px) {
+    nav {
+        padding: 20px;
+    }
+}
