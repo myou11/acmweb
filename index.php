@@ -16,6 +16,31 @@
     <div class="pageContent">
         <div class="event">
             <div class="title">
+                Prof. Ross Beveridge is presenting
+            </div>
+            <div class="info">
+                <p>
+                    Topic TBA
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>09/13/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event past">
+            <div class="title">
                 Learn Git!
             </div>
             <div class="info">
