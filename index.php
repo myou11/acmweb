@@ -16,7 +16,7 @@
     <div class="pageContent">
         <div class="event">
             <div class="title">
-                Is your AI Assistant Paying you Proper Attention? <span class="host">Profs. Ross Beveridge & Bruce Draper</span>
+                Is your AI Assistant Paying you Proper Attention? <span class="host">(Profs. Ross Beveridge & Bruce Draper)</span>
             </div>
             <div class="info">
                 <p>

@@ -121,6 +121,10 @@ nav li:hover {
     margin-bottom: 20px;
 }
 
+.host {
+    color: #8b8687;
+}
+
 .pageContent .event .title {
     font-size: 28px;
 }
