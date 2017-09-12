@@ -16,11 +16,11 @@
     <div class="pageContent">
         <div class="event">
             <div class="title">
-                Prof. Ross Beveridge is presenting
+                Is your AI Assistant Paying you Proper Attention? <span class="host">(Profs. Ross Beveridge & Bruce Draper)</span>
             </div>
             <div class="info">
                 <p>
-                    Topic TBA
+                    This talk will review recent accomplishments from joint work being carried out by CSU, The University of Florida and Brandeis University.  The work highlights the importance of agents, i..e artificially intelligent assistants, using all available senses to share a common view of our surroundings and shared tasks. This most particularly means paying  attention not just what  we are saying, but how we are saying it as expressed through tone and facial expressions, what we are looking at and finally how we may be using our bodies to communicate.  Recent findings in both human studies and machine-human interaction experiments will show that when solving physical problems in the world gestures play a critical role.  Specifically, the time required by people to jointly build a structure out of blocks under the following conditions is roughly the same.  Condition 1 has each person able to see the other but they cannon speak.  Condition 2 has each person able to hear the other but they cannot use gestures. These findings underscore the importance of agents doing more than just listening and speaking.
                 </p>
             </div>
             <div class="details">
