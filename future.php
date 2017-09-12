@@ -31,11 +31,30 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>09/20/2017</span>
+                    <span>09/19/2017</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
+                    <span>9:30 am</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB Lobby</span>
+                </span>
+            </div>
+            <div class="info">
+                <p>
+                    Presentation / tech talk to students
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>09/19/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>5:00 - 7:00 pm</span>
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
