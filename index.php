@@ -16,6 +16,53 @@
     <div class="pageContent">
         <div class="event">
             <div class="title">
+                Amazon
+            </div>
+            <div class="info">
+                <p>
+                    Hosting engineers from Amazon with ACM-W.
+                </p>
+                <p>
+                    Amazon 'open house'
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>09/19/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>2:00 - 4:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB Lobby</span>
+                </span>
+            </div>
+            <div class="info">
+                <p>
+                    Presentation / tech talk to students
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>09/19/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>5:00 - 7:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event past">
+            <div class="title">
                 Is your AI Assistant Paying you Proper Attention? <span class="host">(Profs. Ross Beveridge & Bruce Draper)</span>
             </div>
             <div class="info">
