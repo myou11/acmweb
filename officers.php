@@ -29,16 +29,13 @@
             </div>
 
             <div class="officer">
-                <div class="pic">
-                    <img src="acmImages/Habeeb.jpg">
-                </div>
-                <h3>Habeeb Mohammed</h3>
+                <img src="acmImages/Salzano.jpg">
+                <h3>Joseph Salzano</h3>
                 <p><em>Vice President</em></p>
                 <div class="links">
-                    <a href="mailto:habeeb@cs.colostate.edu" class="fa fa-envelope"></a>
-                    <a href="https://www.cs.colostate.edu/~habeeb" class="fa fa-laptop"></a>
-                    <a href="https://github.com/habeeb-umo" class="fa fa-github"></a>
-                    <a href="https://www.linkedin.com/in/habeeb-umo" class="fa fa-linkedin"></a>
+                    <a href="mailto:jsalzano@rams.colostate.edu" class="fa fa-envelope"></a>
+                    <a href="http://www.cs.colostate.edu/~jsalzano" class="fa fa-laptop"></a>
+                    <a href="https://www.linkedin.com/in/jsalzano" class="fa fa-linkedin"></a>
                 </div>
             </div>
 
@@ -51,17 +48,6 @@
                 <div class="links">
                     <a href="mailto:myou@rams.colostate.edu" class="fa fa-envelope"></a>
                     <a href="https://www.linkedin.com/in/maxwellyou/" class="fa fa-linkedin"></a>
-                </div>
-            </div>
-
-            <div class="officer">
-                <img src="acmImages/Salzano.jpg">
-                <h3>Joseph Salzano</h3>
-                <p><em>Event Coordinator</em></p>
-                <div class="links">
-                    <a href="mailto:jsalzano@rams.colostate.edu" class="fa fa-envelope"></a>
-                    <a href="http://www.cs.colostate.edu/~jsalzano" class="fa fa-laptop"></a>
-                    <a href="https://www.linkedin.com/in/jsalzano" class="fa fa-linkedin"></a>
                 </div>
             </div>
 
@@ -84,6 +70,24 @@
                     <a href="https://www.cs.colostate.edu/~cwlarson/" class="fa fa-laptop"></a>
                     <a href="https://github.com/ColtonLarson" class="fa fa-github"></a>
                     <a href="https://www.linkedin.com/in/colton-larson-a34b66135/" class="fa fa-linkedin"></a>
+                </div>
+            </div>
+
+            <div class="officer">
+                <img src="acmImages/placeholder.jpg">
+                <h3>David Im</h3>
+                <p><em>Event Coordinator</em></p>
+                <div class="links">
+                    <a href="#" class="fa fa-envelope"></a>
+                </div>
+            </div>
+
+            <div class="officer">
+                <img src="acmImages/placeholder.jpg">
+                <h3>Michael Whitehill</h3>
+                <p><em>Secretary</em></p>
+                <div class="links">
+                    <a href="#" class="fa fa-envelope"></a>
                 </div>
             </div>
         </div>
