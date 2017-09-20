@@ -21,31 +21,6 @@
 
         <div class="event">
             <div class="title">
-                ACM-ICPC
-            </div>
-            <div class="info">
-                <p>
-                    Learn what ACM-ICPC is about, join a team, and get ready to head to ICPC with ACM this October!
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>09/27/2017</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-        </div>
-
-        <div class="event">
-            <div class="title">
                 Virtual Reality Development
             </div>
             <div class="info">
