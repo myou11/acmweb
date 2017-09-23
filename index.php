@@ -12,11 +12,11 @@
 <body>
     <!-- Navigation -->
     <?php include("phpincludes/nav.php"); ?>
-    
+
     <div class="pageContent">
-        <div>
+        <!--<div>
             <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (9/20)</h2>
-        </div>
+        </div>-->
         <div class="event">
             <div class="title">
                 ACM-ICPC
