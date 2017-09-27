@@ -74,11 +74,12 @@
             </div>
 
             <div class="officer">
-                <img src="acmImages/placeholder.jpg">
+                <img src="acmImages/DavidIm.jpg">
                 <h3>David Im</h3>
                 <p><em>Event Coordinator</em></p>
                 <div class="links">
-                    <a href="#" class="fa fa-envelope"></a>
+                    <a href="davidsim@rams.colostate.edu" class="fa fa-envelope"></a>
+                    <a href="https://www.linkedin.com/in/david-im-723155135/" class="fa fa-linkedin"></a>
                 </div>
             </div>
 
