@@ -19,11 +19,11 @@
         </div>-->
         <div class="event">
             <div class="title">
-                Virtual Reality Development
+                Hacking all the things <span class="host">(Talis Ozols)</span>
             </div>
             <div class="info">
                 <p>
-                    Learn about VR development and the CSU VR Hackathon coming up soon!
+                    How to break in to intentionally vulerable virtual machines.
                 </p>
             </div>
             <div class="details">
