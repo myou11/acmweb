@@ -19,6 +19,23 @@
         </div>-->
         <div class="event">
             <div class="title">
+                No meeting
+            </div>
+            <div class="info">
+                <p>
+                    Mid-semester ACM break.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>10/11/2017</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event past">
+            <div class="title">
                 Hacking all the things <span class="host">(Talis Ozols)</span>
             </div>
             <div class="info">
