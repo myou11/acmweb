@@ -19,12 +19,15 @@
         </div>-->
         <div class="event">
             <div class="title">
-                No meeting
+                No meeting / ICPC Team Creation Event
             </div>
             <div class="info">
                 <p>
                     Mid-semester ACM break.
                 </p>
+                <p>
+                    Although there is no official meeting, we will be having a small ICPC team creation event for those interested in participating.
+                    Come create or join a team and potentially practice some problems! This will happen at the usual time and place.
             </div>
             <div class="details">
                 <span class="date">
