@@ -21,31 +21,6 @@
 
         <div class="event">
             <div class="title">
-                Industry Speaker TBA
-            </div>
-            <div class="info">
-                <p>
-
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>10/25/2017</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-        </div>
-
-        <div class="event">
-            <div class="title">
                 Side Project Meeting
             </div>
             <div class="info">
