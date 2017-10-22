@@ -19,11 +19,11 @@
         </div>-->
         <div class="event">
             <div class="title">
-                Industry Speaker TBA
+                ACM Hangout
             </div>
             <div class="info">
                 <p>
-
+                    No official event this week. Come eat pizza, do homework, or study.
                 </p>
             </div>
             <div class="details">
@@ -41,7 +41,7 @@
                 </span>
             </div>
         </div>
-        
+
         <div class="event past">
             <div class="title">
                 ACM Chapter Coding Competition
