@@ -23,7 +23,7 @@
             </div>
             <div class="info">
                 <p>
-                    No official event this week. Come eat pizza, do homework, or study.
+                    No official event this week. Come eat pizza, do homework, or chill with us.
                 </p>
             </div>
             <div class="details">
