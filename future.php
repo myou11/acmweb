@@ -21,11 +21,11 @@
 
         <div class="event">
             <div class="title">
-                Side Project Meeting
+                Mock Interviews <span class="host">(Seagate)</span>
             </div>
             <div class="info">
                 <p>
-                    Come join a side project team, wonk on your current team's project, or just chill with us.
+                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skils.
                 </p>
             </div>
             <div class="details">
@@ -35,7 +35,7 @@
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
+                    <span>5:00 - 8:00 pm</span>
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
