@@ -24,6 +24,8 @@
             <div class="info">
                 <p>
                     Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skils.
+                    <br>
+                    An email will be sent out for people to register for interviews.
                 </p>
             </div>
             <div class="details">
@@ -37,7 +39,7 @@
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
+                    <span>Reserved library rooms</span>
                 </span>
             </div>
         </div>
