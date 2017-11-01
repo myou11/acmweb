@@ -14,16 +14,16 @@
     <?php include("phpincludes/nav.php"); ?>
 
     <div class="pageContent">
-        <!--<div>
-            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (9/20)</h2>
-        </div>-->
-        <div class="event">
+        <div>
+            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED 11/1)</h2>
+        </div>
+        <div class="event past">
             <div class="title">
                 Mock Interviews <span class="host">(Seagate)</span>
             </div>
             <div class="info">
                 <p>
-                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skils.
+                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skills.
                 </p>
             </div>
             <div class="details">
