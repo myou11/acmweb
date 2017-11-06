@@ -14,9 +14,34 @@
     <?php include("phpincludes/nav.php"); ?>
 
     <div class="pageContent">
-        <div>
-            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED 11/1)</h2>
+        <!--<div>
+            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
+        </div>-->
+        <div class="event">
+            <div class="title">
+                Seagate
+            </div>
+            <div class="info">
+                <p>
+                    Topic TBA
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>11/08/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
         </div>
+
         <div class="event past">
             <div class="title">
                 Mock Interviews <span class="host">(Seagate)</span>

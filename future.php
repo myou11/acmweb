@@ -21,56 +21,6 @@
 
         <div class="event">
             <div class="title">
-                Mock Interviews <span class="host">(Seagate)</span>
-            </div>
-            <div class="info">
-                <p>
-                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skils.
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>11/01/2017</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>5:00 - 8:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-        </div>
-
-        <div class="event">
-            <div class="title">
-                Industry Speaker TBA
-            </div>
-            <div class="info">
-                <p>
-
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>11/08/2017</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-        </div>
-
-        <div class="event">
-            <div class="title">
                 Prof. Chuck Anderson is presenting
             </div>
             <div class="info">
