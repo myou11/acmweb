@@ -13,19 +13,58 @@
     <!-- Navigation -->
     <?php include("phpincludes/nav.php"); ?>
 
-    <div class="pageContent">
+    <div class="pageContent">]
+        <!-- uncomment below if a meeting is cancelled -->
         <!--<div>
-            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (9/20)</h2>
+            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
         </div>-->
         <div class="event">
+            <div class="title">
+                "ACM Meeting"
+            </div>
+            <div class="info">
+                <p>
+                    Join us to talk about your side-project, an idea for a project you would like to work on, research you are doing, or an idea for a project you would like to work on.
+                </p>
+                <p>
+                    Join us to get on a team to work on a side-project or create your own.
+                </p>
+                <p>
+                    Join us to ask ACM officers any questions you may have or give any suggestions you might have for us.
+                </p>
+                <p>
+                    Join us to hear our plan for the rest of the semester as well as be involved in our scheduling for next semester.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>11/08/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event past">
             <div class="title">
                 Mock Interviews <span class="host">(Seagate)</span>
             </div>
             <div class="info">
                 <p>
+<<<<<<< HEAD
                     Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skils.
                     <br>
                     An email will be sent out for people to register for interviews.
+=======
+                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skills.
+>>>>>>> efa43c468fddfe9cc807cea115729616d7a7053f
                 </p>
             </div>
             <div class="details">
