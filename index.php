@@ -13,7 +13,7 @@
     <!-- Navigation -->
     <?php include("phpincludes/nav.php"); ?>
 
-    <div class="pageContent">]
+    <div class="pageContent">
         <!-- uncomment below if a meeting is cancelled -->
         <!--<div>
             <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
