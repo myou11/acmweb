@@ -58,13 +58,9 @@
             </div>
             <div class="info">
                 <p>
-<<<<<<< HEAD
-                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skils.
+                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skills.
                     <br>
                     An email will be sent out for people to register for interviews.
-=======
-                    Find out what technical interviews are like! Three developers from Seagate will be here to help you refine your interviewing skills.
->>>>>>> efa43c468fddfe9cc807cea115729616d7a7053f
                 </p>
             </div>
             <div class="details">

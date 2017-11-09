@@ -47,6 +47,7 @@
                 <p><em>Web Developer</em></p>
                 <div class="links">
                     <a href="mailto:myou@rams.colostate.edu" class="fa fa-envelope"></a>
+                    <a href="http://www.cs.colostate.edu/~myou" class="fa fa-laptop"></a>
                     <a href="https://www.linkedin.com/in/maxwellyou/" class="fa fa-linkedin"></a>
                 </div>
             </div>
