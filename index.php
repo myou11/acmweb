@@ -18,7 +18,23 @@
         <!--<div>
             <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
         </div>-->
-        <div class="event">
+        <div class="event icpc">
+            <div class="title">
+                Good Luck to our ICPC teams!
+            </div>
+            <div class="info">
+                <p>
+                    Our ICPC teams are competing other teams in the <a href="http://org.coloradomesa.edu/~wmacevoy/rmrc/2017/">Rocky Mountain Regional Contest</a>!
+                    Winners will advance to the ACM-ICPC World Finals!
+                </p>
+                <img src="acmImages/icpc_team1.jpg">
+                <img src="acmImages/icpc_team2.jpg">
+                <img src="acmImages/icpc_team3.jpg">
+                <img src="acmImages/icpc_team4.jpg">
+            </div>
+        </div>
+
+        <div class="event past">
             <div class="title">
                 "ACM Meeting"
             </div>

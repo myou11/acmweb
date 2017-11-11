@@ -194,6 +194,16 @@ nav li:hover {
     margin-bottom: 10px;
 }
 
+/* ICPC special event */
+
+.pageContent .icpc p {
+    padding: 10px;
+}
+
+.pageContent .icpc .info img {
+    width: 40%;
+}
+
 /* Responsive Navigation */
 
 @media (max-width: 900px) {
