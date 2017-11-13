@@ -18,7 +18,32 @@
         <!--<div>
             <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
         </div>-->
-        <div class="event icpc">
+        <div class="event">
+            <div class="title">
+                Representation Development for Faster Deep Reinforcement Learning <span class="host">(Prof. Chuck Anderson)</span>
+            </div>
+            <div class="info">
+                <p>
+                    Presenting on his work in reinforcement learning, which (for an example) is the machine learning approach used in the recent AlphaGo result where a computer learned to play Go.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>11/15/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event icpc past">
             <div class="title">
                 Good Luck to our ICPC teams!
             </div>
