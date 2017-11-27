@@ -20,11 +20,39 @@
         </div>-->
         <div class="event">
             <div class="title">
-                ACM and ACM-W end of semester celebration!
+                Consider a Graduate Degree in Computer Science at Colorado State University
             </div>
             <div class="info">
                 <p>
-
+                    Are you an undergraduate CS major within two years of graduating and wonder what graduate school has to offer? Please attend to have your questions answered.
+                </p>
+                <p>
+                    <span class="underline">Why graduate school?</span>
+                    <br>
+                    Dr. Sanjay Rajopadhye
+                </p>
+                <p>
+                    <span class="underline">Sample of current research</span>
+                    <br>
+                    Dr. Laura Moreno
+                    <br>
+                    Dr. Lorenzo De Carli
+                    <br>
+                    Dr. Hamid Chitsaz
+                    <br>
+                    Dr. Sangmi Pallickara
+                </p>
+                <p>
+                    <span class="underline">Experiences of current graduate students</span>
+                    <br>
+                    Elliot Forney
+                    <br>
+                    David White
+                    <br>
+                    Steve Kommrusch
+                </p>
+                <p>
+                    <span class="underline">Questions and Answers</span>
                 </p>
             </div>
             <div class="details">
@@ -34,7 +62,7 @@
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
+                    <span>6:00 - 8:00 pm</span>
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
