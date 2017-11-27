@@ -24,7 +24,7 @@
             </div>
             <div class="info">
                 <p>
-                    
+
                 </p>
             </div>
             <div class="details">
@@ -60,7 +60,7 @@
             </div>
         </div>
 
-        <div class="event">
+        <div class="event past">
             <div class="title">
                 Representation Development for Faster Deep Reinforcement Learning <span class="host">(Prof. Chuck Anderson)</span>
             </div>
