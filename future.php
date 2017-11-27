@@ -21,48 +21,6 @@
 
         <div class="event">
             <div class="title">
-                No meeting
-            </div>
-            <div class="info">
-                <p>
-                    Fall break.
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>11/22/2017</span>
-                </span>
-            </div>
-        </div>
-
-        <div class="event">
-            <div class="title">
-                ACM and ACM-W end of semester celebration!
-            </div>
-            <div class="info">
-                <p>
-
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>11/29/2017</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-        </div>
-
-        <div class="event">
-            <div class="title">
                 ACM Tradition: pre-finals video game meeting
             </div>
             <div class="info">
