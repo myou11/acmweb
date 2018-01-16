@@ -34,7 +34,7 @@
                 </span>
             </div>
         </div>
-        <div class="event">
+        <div class="event past">
             <div class="title">
                 End of semester board games with ACM and ACM-W
             </div>
