@@ -20,6 +20,47 @@
         </div>-->
         <div class="event">
             <div class="title">
+                No ACM meeting
+            </div>
+            <div class="info">
+                <p>
+                    There will not be a meeting the first week back from break.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>01/17/2017</span>
+                </span>
+            </div>
+        </div>
+        <div class="event">
+            <div class="title">
+                End of semester board games with ACM and ACM-W
+            </div>
+            <div class="info">
+                <p>
+                    Take a break from studying for finals and join us for a board game social
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>12/06/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="event past">
+            <div class="title">
                 Consider a Graduate Degree in Computer Science at Colorado State University
             </div>
             <div class="info">

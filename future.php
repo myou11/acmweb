@@ -19,31 +19,6 @@
             Check the home page for the finalized (current and previous) events.
         </strong></div>
 
-        <div class="event">
-            <div class="title">
-                ACM Tradition: pre-finals video game meeting
-            </div>
-            <div class="info">
-                <p>
-                    Games TBA
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>12/06/2017</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-        </div>
-
         <!--<div class="event"><span style="text-align: center">
             <h2><span style="color: #e23434">
                 No more events for the 2016-2017 school year
