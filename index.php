@@ -20,6 +20,34 @@
         </div>-->
         <div class="event">
             <div class="title">
+                Computational biology:  learning about biology using computational tools <span class="host">(Dr. Ben-Hur)</span>
+            </div>
+            <div class="info">
+                <p>
+                    Since the development of sequencing technologies in the 90s, culminating in the sequencing of the human genome in 2001,
+                    biology has become an edeavor involving large datasets.  Computational biology (aka bioinformatics) is the interdisciplinary
+                    field which focuses on the design and implementation of algorithms for the analysis of such data---from the level of the
+                    genomic sequence to the proteins they code for, and how they interact in the cell in the myriad of processes required
+                    for a cell's function.  Dr. Ben-Hur will give a broad overview of the field, career opportunities, and current research in his lab.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>01/24/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+        <div class="event past">
+            <div class="title">
                 No ACM meeting
             </div>
             <div class="info">
