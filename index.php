@@ -20,6 +20,32 @@
         </div>-->
         <div class="event">
             <div class="title">
+                Programming Language design and implementation <span class="host">(Paul Bivrell)</span>
+            </div>
+            <div class="info">
+                <p>
+                    Every programmer spends countless hours writing code. But who programs programming languages. Is it all black magic and binary?
+                    Or could it be something that anyone can do? Listen as Paul Bivrell talks about his experience doing an independent study where
+                    he designed and implemented his very own programming language.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/07/2017</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+        </div>
+        <div class="event past">
+            <div class="title">
                 Do's and Dont's of Project Scope <span class="host">(CSU GDA)</span>
             </div>
             <div class="info">
@@ -27,6 +53,11 @@
                     The CSU Game Developers Association, formed out of ACM's own side-project initiative, aims to provide a productive space for individuals
                     of all disciplines for video game development. In this presentation, CSU GDA president, Habeeb Mohammed, will present a recently
                     completed project by the organization. He also will go over things to consider when managing and working within a game development team.
+                </p>
+                <p>
+                    GDA Meeting Info:<br>
+                    Where: Visual Arts building room H110<br>
+                    When: Tuesdays 6:00 pm
                 </p>
             </div>
             <div class="details">
