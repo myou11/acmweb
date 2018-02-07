@@ -32,7 +32,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>02/07/2017</span>
+                    <span>02/07/2018</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -63,7 +63,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>01/31/2017</span>
+                    <span>01/31/2018</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -91,7 +91,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>01/24/2017</span>
+                    <span>01/24/2018</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -115,7 +115,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>01/17/2017</span>
+                    <span>01/17/2018</span>
                 </span>
             </div>
         </div>

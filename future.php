@@ -19,6 +19,299 @@
             Check the home page for the finalized (current and previous) events.
         </strong></div>
 
+		
+        <div class="event">
+            <div class="title">
+				HP with ACM-W
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/14/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				No meeting. Valentines Day.
+            </div>
+            <div class="info">
+                <p>
+					Go spend time with your loved one(s)!
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/14/2018</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				S&P Global Networking
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/28/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+		
+        <div class="event">
+            <div class="title">
+				Mock Interview <span class="host">(Seagate)</span>
+            </div>
+            <div class="info">
+                <p>
+					Seagate will demonstrate a technical mock interview and hold a Q&A
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/07/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				No meeting. Spring Break.
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/14/2018</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				Learn Golang with Kegan
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/21/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				<span class="host">Prof. Lorenzo De Carli</span>
+            </div>
+            <div class="info">
+                <p>
+					Prof. Lorenzo works in in network security and traffic analysis
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/28/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				ACM Coding Competition
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/04/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				Professor Talk TBA
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/11/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				Machine Learning with Kevin
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/18/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				Officer Elections, side project for the summer, homework social
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/25/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				ACM & ACM-W Board Games Social and New Officer Orientation
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>05/02/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event">
+            <div class="title">
+				No meeting. Finals week.
+            </div>
+            <div class="info">
+                <p>
+					Good luck on your finals!
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>05/09/2018</span>
+                </span>
+            </div>
+		</div>
+
         <!--<div class="event"><span style="text-align: center">
             <h2><span style="color: #e23434">
                 No more events for the 2016-2017 school year
