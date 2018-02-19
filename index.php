@@ -18,7 +18,25 @@
         <!--<div>
             <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
         </div>-->
-        <div class="event">
+
+        <div class="event past">
+            <div class="title">
+				No meeting. Valentines Day.
+            </div>
+            <div class="info">
+                <p>
+					Go spend time with your loved one(s)!
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/14/2018</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
             <div class="title">
                 Programming Language design and implementation <span class="host">(Paul Bivrell)</span>
             </div>
@@ -28,6 +46,9 @@
                     Or could it be something that anyone can do? Listen as Paul Bivrell talks about his experience doing an independent study where
                     he designed and implemented his very own programming language.
                 </p>
+				<p>
+					<a href="http://www.program-pol.com">Check out the language here!</a>
+				</p>
             </div>
             <div class="details">
                 <span class="date">
