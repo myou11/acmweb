@@ -19,6 +19,31 @@
             <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
         </div>-->
 
+        <div class="event">
+			<div class="title">
+				Homework & Pizza Social Event
+			</div>
+			<div class="info">
+				<p>
+                    No official event this week. Come eat pizza, do homework, or chill with us.
+				</p>
+			</div>
+			<div class="details">
+				<span class="date">
+					<i class="fa fa-calendar-o" aria-hidden="true"></i>
+					<span>02/21/2018</span>
+				</span>
+				<span class="time">
+					<i class="fa fa-clock-o"></i>
+					<span>6:00 pm</span>
+				</span>
+				<span class="location">
+					<i class="fa fa-map-marker"></i>
+					<span>CSB 130</span>
+				</span>
+			</div>
+		</div>
+
         <div class="event past">
             <div class="title">
 				No meeting. Valentines Day.
