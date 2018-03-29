@@ -198,6 +198,72 @@
 
         <div class="event past">
             <div class="title">
+				S&P Global Networking
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/28/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+			<div class="title">
+				Homework & Pizza Social Event
+			</div>
+			<div class="info">
+				<p>
+                    No official event this week. Come eat pizza, do homework, or chill with us.
+				</p>
+			</div>
+			<div class="details">
+				<span class="date">
+					<i class="fa fa-calendar-o" aria-hidden="true"></i>
+					<span>02/21/2018</span>
+				</span>
+				<span class="time">
+					<i class="fa fa-clock-o"></i>
+					<span>6:00 pm</span>
+				</span>
+				<span class="location">
+					<i class="fa fa-map-marker"></i>
+					<span>CSB 130</span>
+				</span>
+			</div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				No meeting. Valentines Day.
+            </div>
+            <div class="info">
+                <p>
+					Go spend time with your loved one(s)!
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/14/2018</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
                 Programming Language design and implementation <span class="host">(Paul Bivrell)</span>
             </div>
             <div class="info">
