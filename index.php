@@ -16,9 +16,187 @@
     <div class="pageContent">
         <!-- uncomment below if a meeting is cancelled -->
         <!--<div>
-            <h2 style="color:#e23434;text-align:center;">NO ACM MEETING TONIGHT (CANCELLED XX/XX)</h2>
+            <h2 style="color:#e23434;text-align:center;">We are also hosting a joint meeting, in addition to the regular Wednesday meeting, with ACM-W and HP on Thursday (3/1). Info for both events is below.</h2>
         </div>-->
-        <div class="event">
+
+        <div class="event past">
+            <div class="title">
+				Automatic Inference of Malware Protocol Specifications <span class="host">(Prof. Lorenzo De Carli)</span>
+            </div>
+            <div class="info">
+                <p>
+					Network-based malware detection is a complex and difficult task. Devising a successful detector for a given malware family oftentimes requires painstaking reverse-engineering of malware binaries and communications.
+					The rate at which new malware families are released makes it unfeasible to perform this analysis manually for every new family; furthermore, modern malware actively attempts to thwart the process by using custom communication protocols which are oftentimes encrypted.
+					In this presentation, I will outline a novel protocol inference algorithm which automatically generates (i) a formal specification of the application-level protocol used by a malware family, and (ii) detection procedures which can identify the protocol within network traffic.
+					This approach has the potential to significantly alleviate the burden of malware analysis for human experts. Our algorithm works in an automated fashion, requiring only the malware’s binary and samples of the malware network communication, and can circumvent malware’s use of encryption.
+                </p>
+				<p>
+					The last part of the talk will also discuss some of the implications, both positive and negative, that end-to-end encryption can have on network security.
+				</p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/28/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				Coding Competition <span class="host">(CSU ACM)</span>
+            </div>
+            <div class="info">
+                <p>
+					It is time for our spring 2018 coding competition! The competition will be split into three divisions according to experience level.
+				</p>
+				<p>
+					<b>Beginner</b>: Freshmen and early Sophomore (CS 163/164, 165, 220, 270)<br>
+					<b>Intermediate</b>: Sophomores and Juniors (CS 253+)<br>
+					<b>Advanced</b>: Seniors and Graduates (CS400+)
+				</p>
+				<p>
+					The winner in each division will receive a Raspberry Pi 3!
+				</p>
+				<p>
+					Sign up <a href="https://www.hackerrank.com/csu-acm-coding-competition">here</a>
+				</p>
+				<p>
+					There will also be pizza and those who are not participating in the competition should feel free to come by and watch.
+				</p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/21/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				No meeting. Spring Break.
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/14/2018</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				Mock Interview <span class="host">(Seagate)</span>
+            </div>
+            <div class="info">
+                <p>
+					Seagate will demonstrate a technical mock interview and hold a Q&A
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>03/07/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				S&P Global Networking
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/28/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+			<div class="title">
+				Homework & Pizza Social Event
+			</div>
+			<div class="info">
+				<p>
+                    No official event this week. Come eat pizza, do homework, or chill with us.
+				</p>
+			</div>
+			<div class="details">
+				<span class="date">
+					<i class="fa fa-calendar-o" aria-hidden="true"></i>
+					<span>02/21/2018</span>
+				</span>
+				<span class="time">
+					<i class="fa fa-clock-o"></i>
+					<span>6:00 pm</span>
+				</span>
+				<span class="location">
+					<i class="fa fa-map-marker"></i>
+					<span>CSB 130</span>
+				</span>
+			</div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				No meeting. Valentines Day.
+            </div>
+            <div class="info">
+                <p>
+					Go spend time with your loved one(s)!
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>02/14/2018</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
             <div class="title">
                 Programming Language design and implementation <span class="host">(Paul Bivrell)</span>
             </div>
@@ -28,11 +206,14 @@
                     Or could it be something that anyone can do? Listen as Paul Bivrell talks about his experience doing an independent study where
                     he designed and implemented his very own programming language.
                 </p>
+				<p>
+					<a href="http://www.program-pol.com">Check out the language here!</a>
+				</p>
             </div>
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>02/07/2017</span>
+                    <span>02/07/2018</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -63,7 +244,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>01/31/2017</span>
+                    <span>01/31/2018</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -91,7 +272,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>01/24/2017</span>
+                    <span>01/24/2018</span>
                 </span>
                 <span class="time">
                     <i class="fa fa-clock-o"></i>
@@ -115,7 +296,7 @@
             <div class="details">
                 <span class="date">
                     <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>01/17/2017</span>
+                    <span>01/17/2018</span>
                 </span>
             </div>
         </div>
