@@ -19,6 +19,84 @@
             <h2 style="color:#e23434;text-align:center;">We are also hosting a joint meeting, in addition to the regular Wednesday meeting, with ACM-W and HP on Thursday (3/1). Info for both events is below.</h2>
         </div>-->
 
+        <div class="event">
+            <div class="title">
+				Machine Learning with Kevin
+            </div>
+            <div class="info">
+                <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/18/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+        <div class="event past">
+            <div class="title">
+				A Library of Values <span class="host">(Graduate student Cole Frederick)</span>
+            </div>
+            <div class="info">
+                <p>
+					The design of a persistent data structure library presented in the context of functional programming.
+					The talk will cover why you might want this and how it is done.
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/11/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
+        <div class="event past">
+            <div class="title">
+				Introduction to Raspberry Pi computing and a survey of Pi projects <span class="host">(Kegan Strawn)</span>
+            </div>
+            <div class="info">
+                <p>
+					Kegan Strawn will be talking about his experiences with Raspberry Pi projects, how they work, what you can do with them, and the IoT revolution.
+                    At the end of the talk a Raspberry Pi will be given to a random member in attendance.
+                </p>
+				<p>
+                    Also: if you were a winner of the coding competition you can pick up your Pi at this meeting or schedule another time via email.
+				</p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/04/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+
         <div class="event past">
             <div class="title">
 				Automatic Inference of Malware Protocol Specifications <span class="host">(Prof. Lorenzo De Carli)</span>
