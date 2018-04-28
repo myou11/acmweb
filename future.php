@@ -19,53 +19,6 @@
             Check the home page for the finalized (current and previous) events.
         </strong></div>
 
-        <div class="event">
-            <div class="title">
-				Officer Elections, side project for the summer, homework social
-            </div>
-            <div class="info">
-                <p>
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>04/25/2018</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-		</div>
-
-        <div class="event">
-            <div class="title">
-				ACM & ACM-W Board Games Social and New Officer Orientation
-            </div>
-            <div class="info">
-                <p>
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>05/02/2018</span>
-                </span>
-                <span class="time">
-                    <i class="fa fa-clock-o"></i>
-                    <span>6:00 pm</span>
-                </span>
-                <span class="location">
-                    <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
-                </span>
-            </div>
-		</div>
 
         <div class="event">
             <div class="title">

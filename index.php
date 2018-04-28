@@ -19,12 +19,115 @@
             <h2 style="color:#e23434;text-align:center;">We are also hosting a joint meeting, in addition to the regular Wednesday meeting, with ACM-W and HP on Thursday (3/1). Info for both events is below.</h2>
         </div>-->
 
+
         <div class="event">
             <div class="title">
-				Machine Learning with Kevin
+		ACM & ACM-W Board Games Social and New Officer Orientation
             </div>
             <div class="info">
                 <p>
+                </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>05/02/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+	</div>
+        <div class="event">
+            <div class="title">
+		ACM Officer Elections
+            </div>
+            <div class="info">
+                <p>
+			This week, ACM will be holding officer elections.
+                </p>
+                <div class="elections">
+                    <h4>2018 - 2019 school year positions:</h2>
+                    <br>
+                    <div class="position">
+                        <p><strong>President:</strong> Maxwell You</p>
+                        <p>Lead ACM-CSU. Organize company/future events, company relations, and overall administrative tasks.</p>
+                    </div>
+                    <div class="position">
+                        <p><strong>Vice President:</strong> David Im</p>
+                        <p>Support the President, lead ACM-CSU's side project initiative.</p>
+                    </div>
+                    <div class="position">
+                        <p><strong>Treasurer:</strong> Weston</p>
+			<p>
+				Handle the finances, order and receive the food/prizes
+			</p>
+                    </div>
+                    <div class="position">
+                        <p><strong>Secretary:</strong> Sarah Hultin</p>
+			<p>
+				Support the President & Vice President, help with the Vice President's additional event or effort, and/or lead your own
+			</p>
+                    </div>
+                    <div class="position">
+                        <p><strong>Web Developer:</strong> Calvin Le</p>
+                        <p>Update the site for events, improve the site, and add any functionality needed.</p>
+                    </div>
+                    <div class="position">
+                        <p><strong>Marketing Manager:</strong> Steve Sutton</p>
+			<p>
+				Run the social media accounts and help with any advertising
+			</p>
+                    </div>
+                    <div class="position">
+                        <p><strong>Event Coordinator:</strong> Sean Thunquest</p>
+                        <p>
+				Dedicated position to be at meetings, count attendance and keep the room maintained
+                        </p>
+                    </div>
+                    <br>
+                </div>
+		<p>
+			We will give candidates a chance to introduce themselves before voting.
+			The voting period will be from 6:30-7:00 followed by announcing the results at 7:15.
+		</p>
+		<p>
+			You must be a member to vote and or run. If you have yet to pay your dues you may do so at this meeting before the voting period.
+			Students must be planning on attending the full 2018-2019 school year to hold an officer position.
+		</p>
+		<p>
+			As always there will be pizza and feel free to bring homework and hang out with us even if you are not running for a position.
+		</p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>04/25/2018</span>
+                </span>
+                <span class="time">
+                    <i class="fa fa-clock-o"></i>
+                    <span>6:00 pm</span>
+                </span>
+                <span class="location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>CSB 130</span>
+                </span>
+            </div>
+		</div>
+        <div class="event past">
+            <div class="title">
+				A Non-Technical Intro to Deep Learning <span class="host">(Kevin Bruhwiler)</span>
+            </div>
+            <div class="info">
+                <p>
+			Over the last decade deep learning has revolutionized the field of artificial intelligence and
+			enabled breakthroughs in machine translation and perception. The talk will cover what deep learning
+			is and what it can be used for, no math or programming skills required.
                 </p>
             </div>
             <div class="details">
