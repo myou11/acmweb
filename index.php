@@ -43,7 +43,7 @@
                 </span>
             </div>
 	</div>
-        <div class="event">
+        <div class="event past">
             <div class="title">
 		ACM Officer Elections
             </div>
