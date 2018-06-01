@@ -20,22 +20,6 @@
         </strong></div>
 
 
-        <div class="event">
-            <div class="title">
-				No meeting. Finals week.
-            </div>
-            <div class="info">
-                <p>
-					Good luck on your finals!
-                </p>
-            </div>
-            <div class="details">
-                <span class="date">
-                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
-                    <span>05/09/2018</span>
-                </span>
-            </div>
-		</div>
 
         <!--<div class="event"><span style="text-align: center">
             <h2><span style="color: #e23434">

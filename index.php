@@ -19,14 +19,33 @@
             <h2 style="color:#e23434;text-align:center;">We are also hosting a joint meeting, in addition to the regular Wednesday meeting, with ACM-W and HP on Thursday (3/1). Info for both events is below.</h2>
         </div>-->
 
-
-        <div class="event">
+        <div class="event past">
             <div class="title">
-		ACM & ACM-W Board Games Social and New Officer Orientation
+				No meeting. Finals week.
             </div>
             <div class="info">
                 <p>
+					Good luck on your finals!
                 </p>
+            </div>
+            <div class="details">
+                <span class="date">
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    <span>05/09/2018</span>
+                </span>
+            </div>
+		</div>
+        <div class="event past">
+            <div class="title">
+				ACM & ACM-W New Officer Orientation
+            </div>
+            <div class="info">
+                <p>
+					This will serve as a chance for the new officers to ask questions and for the previous officers to pass on any information/advice.
+                </p>
+				<p>
+					Anyone is welcome, not just officers!
+				</p>
             </div>
             <div class="details">
                 <span class="date">
@@ -39,7 +58,7 @@
                 </span>
                 <span class="location">
                     <i class="fa fa-map-marker"></i>
-                    <span>CSB 130</span>
+                    <span>LSC Courtyard</span>
                 </span>
             </div>
 	</div>
@@ -63,7 +82,7 @@
                         <p>Support the President, lead ACM-CSU's side project initiative.</p>
                     </div>
                     <div class="position">
-                        <p><strong>Treasurer:</strong> Weston</p>
+                        <p><strong>Treasurer:</strong> Westin Musser</p>
 			<p>
 				Handle the finances, order and receive the food/prizes
 			</p>
